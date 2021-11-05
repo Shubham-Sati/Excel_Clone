@@ -7,21 +7,21 @@ Link to the Excel_clone page => https://shubham-sati.github.io/Excel_Clone/
 2. 2-Way Binding of Toolbar with each and every cell seperately.
 3. Basic Toolbar Items/Features like 
   a. Cut
-  b. Copy 
-  c. Paste  
-  d. Font-Family  
-  e. Font-Size  
-  f. Bold  
-  g. Italic 
-  h. Underline 
-  i. Right Align 
-  j. Left Align 
-  k. Center Align 
-  l. Text Color 
-  m. Cell Color 
-  n. Open Sheet 
-  o. Save or Download Sheet 
-  p. Multi Sheet features
+  b. Copy
+  c. Paste
+  d. Font-Family
+  e. Font-Size
+  f. Bold
+  g. Italic
+  h. Underline
+  i. Right Align
+  j. Left Align
+  k. Center Align
+  l. Text Color
+  m. Cell Color
+  n. Open Sheet
+  o. Save or Download Sheet
+  p. Multi Sheet feature
   q. Cycle Detection Using DFS Algo with color visualization to track the cyclic path.
 
 # Note
