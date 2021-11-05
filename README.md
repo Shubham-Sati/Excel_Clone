@@ -12,8 +12,8 @@ Link to the Excel_clone page => https://shubham-sati.github.io/Excel_Clone/
   d. Font-Family    
   e. Font-Size    
   f. Bold 
-  g. Italic 
-  h. Underline  
+  g. Italic   
+  h. Underline    
   i. Right Align  
   j. Left Align   
   k. Center Align   
