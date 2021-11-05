@@ -7,10 +7,10 @@ Link to the Excel_clone page => https://shubham-sati.github.io/Excel_Clone/
 2. 2-Way Binding of Toolbar with each and every cell seperately.
 3. Basic Toolbar Items/Features like    
   a. Cut  
-  b. Copy 
+  b. Copy   
   c. Paste  
-  d. Font-Family  
-  e. Font-Size  
+  d. Font-Family    
+  e. Font-Size    
   f. Bold 
   g. Italic 
   h. Underline  
