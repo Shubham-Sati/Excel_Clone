@@ -25,7 +25,7 @@ Link to the Excel_clone page => https://shubham-sati.github.io/Excel_Clone/
   q. Cycle Detection Using DFS Algo with color visualization to track the cyclic path.      
 
 # Note
-In this project I learn about the Frontend. Learn the flexible UI representation. DOM and Javascript makes it easy to manipulate with the UI part of the site. It was a great fun learning with good insite of JavaScript , delay(setTimeOut) , Promises , Async/await , CSS , DFS Algo etc.
+In this project I learn about the Frontend. Learn the flexible UI representation. DOM and Javascript makes it easy to manipulate with the UI part of the site. It was a great fun learning with good insight of JavaScript , delay(setTimeOut) , Promises , Async/await , CSS , DFS Algo etc.
 
 # Sites I refer while making this Project =>
 1. Material Icons => https://fonts.google.com/icons?selected=Material+Icons+Outlined:assignment_returned
